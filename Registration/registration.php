@@ -1,9 +1,6 @@
-<style>
-<?php include 'CSS/registration.css'; ?>
-</style>
 <?php
 
-	include 'activitydefinitions.php';
+	include 'RegistrationActivity.php';
 	
 	session_start();
 
